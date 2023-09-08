@@ -1,4 +1,4 @@
-### Hi there, I'm EdsTomato 👋
+# Hi there, I'm EdsTomato 👋
 
 ## I am currently a CS Student at Heinrich-Heine-University in Düsseldorf
 
