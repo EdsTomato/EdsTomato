@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm EdsTomato 👋
+
+##I am currently a CS Student at Heinrich-Heine-University in Düsseldorf
 
 <!--
 **EdsTomato/EdsTomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
