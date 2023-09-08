@@ -3,7 +3,7 @@
 ## I am currently a CS Student at Heinrich-Heine-University in Düsseldorf
 ### Languages and Tools: 
 <img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/1dc849bf-cc32-4686-b5e8-20054ce9d9e6" alt="C_Logo" width="50"/>
-<img src="![image](https://github.com/EdsTomato/EdsTomato/assets/92441858/d08a3671-cd07-4b97-aa3b-272de3b5748e)" alt="Java_Logo" width="50"/>
+<img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/d08a3671-cd07-4b97-aa3b-272de3b5748e" alt="Java_Logo" width="50"/>
 
 
 <!--
