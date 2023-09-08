@@ -4,7 +4,7 @@
 ### Languages and Tools: 
 <img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/d08a3671-cd07-4b97-aa3b-272de3b5748e" alt="Java_Logo" width="100"/>
 <img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/1dc849bf-cc32-4686-b5e8-20054ce9d9e6" alt="C_Logo" width="75"/>
-<img src="https://w7.pngwing.com/pngs/991/165/png-transparent-docker-hd-logo-thumbnail.png" alt="Docker_Logo" width="75"/>
+<img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/a260d04d-cdb4-4717-9e46-00f5cac70a1b" alt="Docker_Logo" width="75"/>
 
 
 <!--
