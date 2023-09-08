@@ -1,6 +1,9 @@
 # Hi there, I'm EdsTomato 👋
 
 ## I am currently a CS Student at Heinrich-Heine-University in Düsseldorf
+## Languages and Tools:
+![image](https://github.com/EdsTomato/EdsTomato/assets/92441858/1dc849bf-cc32-4686-b5e8-20054ce9d9e6)
+
 
 <!--
 **EdsTomato/EdsTomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
