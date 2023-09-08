@@ -5,7 +5,7 @@
 <img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/d08a3671-cd07-4b97-aa3b-272de3b5748e" alt="Java_Logo" width="100"/>
 <img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/1dc849bf-cc32-4686-b5e8-20054ce9d9e6" alt="C_Logo" width="75"/>
 <img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/a260d04d-cdb4-4717-9e46-00f5cac70a1b" alt="Docker_Logo" width="85"/>
-<img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/0d081e99-4e84-4d20-9272-cb7a2945cd81" alt="Spring_Logo" width="85" height="50"/>
+<img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/0d081e99-4e84-4d20-9272-cb7a2945cd81" alt="Spring_Logo" width="85" size="100"/>
 <img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/03cdb2bf-0823-406c-a9d7-a524195583a5" alt="Git_Logo" width="75"/>
 <img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/064f9a90-262c-4af9-9e96-15946bad0a48" alt="Linux_Logo" width="75"/>
 
