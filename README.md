@@ -1,7 +1,8 @@
-# Hi there, I'm EdsTomato 👋
+![image](https://github.com/EdsTomato/EdsTomato/assets/92441858/c67971c9-0df3-4011-80a6-7a9934c6a2b0)# Hi there, I'm EdsTomato 👋
 
 ## I am currently a CS Student at Heinrich-Heine-University in Düsseldorf
 ### Languages and Tools: 
+<img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/1dc849bf-cc32-4686-b5e8-20054ce9d9e6" alt="C_Logo" width="50"/>
 <img src="https://github.com/EdsTomato/EdsTomato/assets/92441858/1dc849bf-cc32-4686-b5e8-20054ce9d9e6" alt="C_Logo" width="50"/>
 
 
