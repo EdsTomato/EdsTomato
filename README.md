@@ -3,6 +3,7 @@
 ## I am currently a CS Student at Heinrich-Heine-University in Düsseldorf
 ### Languages and Tools:
 <p>
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iTitus&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
