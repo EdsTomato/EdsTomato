@@ -1,6 +1,6 @@
 # Hi there, I'm EdsTomato 👋
 
-## I am currently a Web Dev. at mindsquare and a CS Student at Heinrich-Heine-University in Düsseldorf
+## I am currently a CS Student at Heinrich-Heine-University in Düsseldorf
 ### Languages and Tools:
 <p>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
