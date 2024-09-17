@@ -1,6 +1,6 @@
 # Hi there, I'm EdsTomato 👋
 
-## I am currently a CS Student at Heinrich-Heine-University in Düsseldorf and I also work as a Software Developer 
+## Currently a Bachelor's student in Computer Science and a Software Developer.
 ### Languages and Tools:
 <p>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
