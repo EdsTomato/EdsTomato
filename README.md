@@ -2,8 +2,6 @@
 <h3 align="center">An aspiring developer from Germany</h3>
 <h3 align="center">Currently, I am a computer science student and also work as a Software Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
